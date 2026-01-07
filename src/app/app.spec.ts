@@ -15,6 +15,7 @@ export class App {
   protected readonly experiencias = signal([
     { 
       empresa: 'TechDog – RJ', 
+      
       cargo: 'Dev .NET', 
       periodo: 'Ago/2024 – Atual', 
       descricao: 'Projeto ConectEdu: novas funcionalidades e integrações.' 
